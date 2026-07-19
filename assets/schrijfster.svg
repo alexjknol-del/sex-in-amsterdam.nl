@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Illustratie van redactrice Marlijn Verhoeven">
+  <defs>
+    <clipPath id="c"><circle cx="120" cy="120" r="120"/></clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a2233"/>
+      <stop offset="1" stop-color="#1a1620"/>
+    </linearGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5b3a24"/>
+      <stop offset="1" stop-color="#3f2717"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="240" height="240" fill="url(#bg)"/>
+    <circle cx="120" cy="118" r="86" fill="#c9a24b" opacity="0.10"/>
+    <!-- shoulders -->
+    <path d="M52 240 C52 196 82 176 120 176 C158 176 188 196 188 240 Z" fill="#3a3540"/>
+    <path d="M120 176 C104 176 92 182 84 190 L120 208 L156 190 C148 182 136 176 120 176 Z" fill="#efe9dd" opacity="0.9"/>
+    <!-- neck -->
+    <rect x="107" y="150" width="26" height="34" rx="12" fill="#e7b48f"/>
+    <!-- hair back -->
+    <path d="M60 122 C60 74 86 46 120 46 C154 46 180 74 180 122 C180 150 174 168 168 182 L156 158 C160 140 160 120 156 108 C120 118 96 116 84 106 C82 122 82 142 86 160 L72 182 C66 166 60 148 60 122 Z" fill="url(#hair)"/>
+    <!-- face -->
+    <path d="M84 116 C84 84 100 66 120 66 C140 66 156 84 156 116 C156 146 140 166 120 166 C100 166 84 146 84 116 Z" fill="#edb892"/>
+    <!-- ears -->
+    <circle cx="85" cy="122" r="8" fill="#e0a97f"/>
+    <circle cx="155" cy="122" r="8" fill="#e0a97f"/>
+    <!-- brows -->
+    <path d="M97 108 Q106 102 116 107" stroke="#4a2f1c" stroke-width="3.4" fill="none" stroke-linecap="round"/>
+    <path d="M124 107 Q134 102 143 108" stroke="#4a2f1c" stroke-width="3.4" fill="none" stroke-linecap="round"/>
+    <!-- eyes -->
+    <ellipse cx="106" cy="120" rx="5.6" ry="6.2" fill="#3a2417"/>
+    <ellipse cx="134" cy="120" rx="5.6" ry="6.2" fill="#3a2417"/>
+    <circle cx="108" cy="118" r="1.7" fill="#fff"/>
+    <circle cx="136" cy="118" r="1.7" fill="#fff"/>
+    <!-- nose -->
+    <path d="M120 122 L116 136 Q120 139 124 136" stroke="#cf9a72" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- blush -->
+    <ellipse cx="99" cy="136" rx="8" ry="5" fill="#e39aa0" opacity="0.35"/>
+    <ellipse cx="141" cy="136" rx="8" ry="5" fill="#e39aa0" opacity="0.35"/>
+    <!-- lips -->
+    <path d="M110 148 Q120 154 130 148 Q120 158 110 148 Z" fill="#c9646a"/>
+    <!-- hair front / fringe -->
+    <path d="M84 108 C84 80 100 60 120 60 C140 60 156 80 156 108 C150 96 140 88 120 90 C104 92 92 100 88 112 C86 111 84 110 84 108 Z" fill="url(#hair)"/>
+    <path d="M120 90 C110 90 100 96 96 106 C104 100 112 98 120 98 C128 98 136 100 144 106 C140 96 130 90 120 90 Z" fill="#4a2e1a" opacity="0.5"/>
+    <!-- earrings (gold) -->
+    <circle cx="85" cy="134" r="2.6" fill="#c9a24b"/>
+    <circle cx="155" cy="134" r="2.6" fill="#c9a24b"/>
+  </g>
+  <circle cx="120" cy="120" r="118" fill="none" stroke="#c9a24b" stroke-width="3"/>
+</svg>
